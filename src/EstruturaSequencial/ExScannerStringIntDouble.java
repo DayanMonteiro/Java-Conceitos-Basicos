@@ -36,8 +36,8 @@ public class ExScannerStringIntDouble {
             Dayan
             33
             10.5
-*/
-        
+        */
+
 
         sc.close();
     }
